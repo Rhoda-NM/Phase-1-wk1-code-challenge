@@ -70,7 +70,8 @@ node 'js file'
 The project folder contains:
 
 |-node modules                       
-|-grade-Generator.js     
+|-grade-Generator.js  
+|-LICENSE   
 |-{}package-lock.json  
 |-{}package.json    
 |-Readme.md   
