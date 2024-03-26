@@ -18,4 +18,3 @@ const speedChecker = () => {
     
 }
 console.log(speedChecker());
-//console.log(typeof(2))
