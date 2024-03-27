@@ -24,6 +24,9 @@ The code works as follows:
 3. Less than  or equal to 70 returns OK (if else statement)
 4. Math.float - Allows for 1 demerit point for every 5 points above 70. (Inbulit method that rounds down the results of division by 5)
 5. Conditional statement that checks to suspend license for demerit points above 12
+   Example of how the code works
+   ![Screenshot from 2024-03-27 08-39-43](https://github.com/Rhoda-NM/Phase-1-wk1-code-challenge/assets/56297292/f381e070-dc8b-4c51-9b45-4df775a7496f)
+
 
 
 ### Salary calculator   
