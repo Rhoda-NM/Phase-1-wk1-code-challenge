@@ -51,7 +51,8 @@ Some concepts used for this code are:
 
 Example of how the application works
 
-![Screenshot from 2024-03-27 08-43-43](https://github.com/Rhoda-NM/Phase-1-wk1-code-challenge/assets/56297292/81fb9ab3-9edf-4cea-8a67-fdbf3c967050)
+![Screenshot from 2024-03-27 08-43-43](https://github.com/Rhoda-NM/Phase-1-wk1-code-challenge/assets/56297292/7057597a-8130-446a-a962-093e160580f3)
+
 
 
 
