@@ -16,6 +16,12 @@ Some concepts used for this code are:
 3. Check that marks are within the valid range of 0 -100 using a conditional statement. (if else)
 4. If passing step 3 check for the range of marks and return the corresponding grade using a conditional statement( if elseif else)
 
+   Example of the code working
+
+   ![Screenshot from 2024-03-27 08-43-43](https://github.com/Rhoda-NM/Phase-1-wk1-code-challenge/assets/56297292/f4050656-67a1-4f60-8f0a-ea709976469d)
+
+   
+
 ### 2. Speed Detector  
 This application is meant to check the speed of a car, 70 being the speed limit, with any speed above that warranting demerit points with the possibility of license suspension.
 The code works as follows:
@@ -24,7 +30,10 @@ The code works as follows:
 3. Less than  or equal to 70 returns OK (if else statement)
 4. Math.float - Allows for 1 demerit point for every 5 points above 70. (Inbulit method that rounds down the results of division by 5)
 5. Conditional statement that checks to suspend license for demerit points above 12
+
+   
    Example of how the code works
+   
    ![Screenshot from 2024-03-27 08-39-43](https://github.com/Rhoda-NM/Phase-1-wk1-code-challenge/assets/56297292/f381e070-dc8b-4c51-9b45-4df775a7496f)
 
 
@@ -40,7 +49,9 @@ Some concepts used for this code are:
 5. Conditional statements (if else if else) are used to determine the taxation and deduction bracket for the provided salary.
 6. Basic math operations such as summation, subtraction, multiplication and division are used to perform various computations.
 
+Example of how the application works
 
+![Screenshot from 2024-03-27 08-43-43](https://github.com/Rhoda-NM/Phase-1-wk1-code-challenge/assets/56297292/81fb9ab3-9edf-4cea-8a67-fdbf3c967050)
 
 
 
